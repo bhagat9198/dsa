@@ -1,0 +1,14 @@
+////////////////// 1. 
+
+int takes 4 bytes,
+char takes 1 bytes
+
+
+creating array
+
+int a[100] // static memory allocation -> allocating memory before the run time
+int a[10] = {0} // {0} -> inilizating list
+int a[10] = {1,2,3}
+int a[] = {1,2,3}
+string fruits[4] = {'apple', 'mango', 'lichi'} // its an 2d array
+
